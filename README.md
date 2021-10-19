@@ -1,2 +1,2 @@
 # university-work
-any codes made from universty
+any codes made for universty
